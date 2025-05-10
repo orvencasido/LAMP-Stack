@@ -1,4 +1,4 @@
-# 📥 PHP MySQL Number Submission App on Ubuntu EC2 Set Up a LAMP Stack (Linux, Apache, MySQL, PHP)
+# 📥 PHP MySQL Number Submission Web App using LAMP Stack (Linux, Apache, MySQL, PHP)
 
 This project demonstrates how to build and deploy a basic PHP web application that accepts number input, stores it in a MySQL database, and displays the submitted values. The setup is done on an AWS EC2 instance running Ubuntu.
 
